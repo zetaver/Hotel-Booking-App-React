@@ -40,23 +40,23 @@ A modern, responsive web application for a luxury seaside apartment rental servi
 ## 📱 Screenshots
 
 ### Home Page
-![Home Page](./home.png)
+![Home Page](./screenshots/home.png)
 *Beautiful hero section with booking call-to-action*
 
 ### Apartments Listing
-![Apartments](./apartments.png)
+![Apartments](./screenshots/apartments.png)
 *Comprehensive apartment listings with detailed information*
 
 ### Amenities Page
-![Amenities](./Amenities.png)
+![Amenities](./screenshots/Amenities.png)
 *Organized amenities showcase by categories*
 
 ### Gallery
-![Gallery](./gallery.png)
+![Gallery](./screenshots/gallery.png)
 *Beautiful image gallery with property photos*
 
 ### Booking System
-![Booking](./booking.png)
+![Booking](./screenshots/booking.png)
 *Intuitive booking form with date selection*
 
 ## 🚀 Getting Started
