@@ -1,6 +1,6 @@
-# MareSereno - Luxury Seaside Apartments
+# MareSereno - Hotel-booking-app-react
 
-A modern, responsive web application for a luxury seaside apartment rental service. Built with React, TypeScript, and Tailwind CSS, featuring a beautiful UI and seamless user experience.
+A modern, responsive web application for a Hotel Booking. Built with React, TypeScript, and Tailwind CSS, featuring a beautiful UI and seamless user experience.
 
 ![MareSereno Hero](https://images.unsplash.com/photo-1615571022219-eb45cf7faa9d?q=80&w=1200&h=600&auto=format&fit=crop)
 
